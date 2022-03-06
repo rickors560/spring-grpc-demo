@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: grpc-client
+    
+grpc:
+  client:
+    GrpcServer:
+      address: 'localhost:9090'
+      enableKeepAlive: true
+      keepAliveWithoutCalls: true
+      negotiationType: plaintext

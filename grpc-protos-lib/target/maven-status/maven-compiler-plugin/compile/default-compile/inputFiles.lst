@@ -1,0 +1,6 @@
+/home/alfa/Documents/Java-Workspace/grpc-demo/grpc-protos-lib/target/generated-sources/protobuf/java/org/rick/grpc/proto/service/Hello.java
+/home/alfa/Documents/Java-Workspace/grpc-demo/grpc-protos-lib/target/generated-sources/protobuf/grpc-java/org/rick/grpc/proto/service/HelloServiceGrpc.java
+/home/alfa/Documents/Java-Workspace/grpc-demo/grpc-protos-lib/target/generated-sources/protobuf/java/org/rick/grpc/proto/service/HelloResponseOrBuilder.java
+/home/alfa/Documents/Java-Workspace/grpc-demo/grpc-protos-lib/target/generated-sources/protobuf/java/org/rick/grpc/proto/service/HelloResponse.java
+/home/alfa/Documents/Java-Workspace/grpc-demo/grpc-protos-lib/target/generated-sources/protobuf/java/org/rick/grpc/proto/service/HelloRequest.java
+/home/alfa/Documents/Java-Workspace/grpc-demo/grpc-protos-lib/target/generated-sources/protobuf/java/org/rick/grpc/proto/service/HelloRequestOrBuilder.java
